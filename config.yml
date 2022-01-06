@@ -1,4 +1,4 @@
-baseURL: "<username.github.io>" #等等GitHub庫的網址
+baseURL: "https://andrewwu29.github.io/itsdemoblog/" #等等GitHub庫的網址
 title: its demo blog #網站標題
 paginate: 5
 # 預設語系配置
