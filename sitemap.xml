@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>%3Cusername.github.io%3E/tags/hello-world/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/tags/hello-world/</loc>
     <lastmod>2022-01-06T14:00:09+00:00</lastmod>
   </url><url>
-    <loc>%3Cusername.github.io%3E/2022/01/hello_world/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/2022/01/hello_world/</loc>
     <lastmod>2022-01-06T14:00:09+00:00</lastmod>
   </url><url>
-    <loc>%3Cusername.github.io%3E/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/</loc>
     <lastmod>2022-01-06T14:00:09+00:00</lastmod>
   </url><url>
-    <loc>%3Cusername.github.io%3E/posts/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/posts/</loc>
     <lastmod>2022-01-06T14:00:09+00:00</lastmod>
   </url><url>
-    <loc>%3Cusername.github.io%3E/tags/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/tags/</loc>
     <lastmod>2022-01-06T14:00:09+00:00</lastmod>
   </url><url>
-    <loc>%3Cusername.github.io%3E/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/tags/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-01-06T14:00:09+00:00</lastmod>
   </url><url>
-    <loc>%3Cusername.github.io%3E/categories/</loc>
+    <loc>https://andrewwu29.github.io/itsdemoblog/categories/</loc>
   </url>
 </urlset>
